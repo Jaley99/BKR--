@@ -68,7 +68,7 @@
 
 Структура репозитория:
 
-Datasets - папка с 4 входными файлами (info_contrib.xlsx, imp_ingreso.xlsx, imp_salario.xlsx, auditoria.xlsx)
+Datasets - 4  файлы (info_contrib.xlsx, imp_ingreso.xlsx, imp_salario.xlsx, auditoria.xlsx)
 
 
 Evdokimov O.G. BKP_final.pdf - код работы, выгруженный в pdf
